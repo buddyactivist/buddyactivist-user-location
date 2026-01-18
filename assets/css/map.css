@@ -1,0 +1,15 @@
+.baul-user-map-wrapper {
+    position: relative;
+}
+
+.baul-user-map-search {
+    margin-bottom: 10px;
+    display: flex;
+    gap: 5px;
+}
+
+#baul-user-map {
+    width: 100%;
+    height: 500px;
+    border: 1px solid #ddd;
+}
