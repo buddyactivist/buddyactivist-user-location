@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyActivist User Location 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: \n"
+
+msgid "BuddyActivist User Location"
+msgstr ""
+
+msgid "User Location Settings"
+msgstr ""
+
+msgid "Auto-join nearest group"
+msgstr ""
+
+msgid "Automatically subscribe user to nearest BuddyPress group"
+msgstr ""
+
+msgid "BuddyActivist Group Location is required for this feature."
+msgstr ""
+
+msgid "Search address..."
+msgstr ""
+
+msgid "Search"
+msgstr ""
