@@ -1,0 +1,1 @@
+# buddyactivist-user-location
