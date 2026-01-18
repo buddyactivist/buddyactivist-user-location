@@ -1,0 +1,86 @@
+msgid "BuddyActivist User Location"
+msgstr "BuddyActivist Localizzazione Utenti"
+
+msgid "User Location Settings"
+msgstr "Impostazioni Localizzazione Utenti"
+
+msgid "Auto-join nearest group"
+msgstr "Iscrizione automatica al gruppo più vicino"
+
+msgid "Automatically subscribe user to nearest BuddyPress group"
+msgstr "Iscrivi automaticamente l’utente al gruppo BuddyPress più vicino"
+
+msgid "BuddyActivist Group Location is required for this feature."
+msgstr "Per utilizzare questa funzionalità è necessario BuddyActivist Group Location."
+
+msgid "Search address..."
+msgstr "Cerca indirizzo..."
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Profile"
+msgstr "Profilo"
+
+msgid "Search address..."
+msgstr "Cerca indirizzo..."
+
+msgid "BuddyActivist User Location Settings"
+msgstr "Impostazioni BuddyActivist Localizzazione Utenti"
+
+msgid "Localized Address (BuddyActivist User Location)"
+msgstr "Indirizzo Localizzato (BuddyActivist Localizzazione Utenti)"
+
+msgid "Address"
+msgstr "Indirizzo"
+
+msgid "City"
+msgstr "Città"
+
+msgid "Postal code"
+msgstr "CAP"
+
+msgid "Country"
+msgstr "Paese"
+
+msgid "Latitude"
+msgstr "Latitudine"
+
+msgid "Longitude"
+msgstr "Longitudine"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "User map"
+msgstr "Mappa utenti"
+
+msgid "No users found."
+msgstr "Nessun utente trovato."
+
+msgid "Loading map..."
+msgstr "Caricamento mappa..."
+
+msgid "Error loading user data."
+msgstr "Errore nel caricamento dei dati utente."
+
+msgid "Nearest group"
+msgstr "Gruppo più vicino"
+
+msgid "Automatically connect user to nearest BuddyPress group"
+msgstr "Collega automaticamente l’utente al gruppo BuddyPress più vicino"
+
+msgid "This feature requires BuddyPress."
+msgstr "Questa funzionalità richiede BuddyPress."
+
+msgid "This feature requires BuddyActivist Group Location."
+msgstr "Questa funzionalità richiede BuddyActivist Group Location."
+
+msgid "Enable user map"
+msgstr "Abilita mappa utenti"
+
+msgid "User map shortcode"
+msgstr "Shortcode mappa utenti"
+
+msgid "Use the shortcode [baul_user_map] to display the user map."
+msgstr "Usa lo shortcode [baul_user_map] per mostrare la mappa degli utenti."
